@@ -1,4 +1,4 @@
-//callback functions initialization
+//callback functions initialization using -  CALLBACK HELL
 step1(10, function (result1, err) {
   if (!err) {
     step2(result1, function (result2, err) {
