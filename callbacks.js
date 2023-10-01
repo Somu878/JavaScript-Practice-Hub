@@ -1,3 +1,4 @@
+//callback functions initialization
 step1(10, function (result1, err) {
   if (!err) {
     step2(result1, function (result2, err) {
@@ -12,6 +13,7 @@ step1(10, function (result1, err) {
   }
 });
 
+//callback Functions
 function step1(value, callback) {
   callback(value + 10, false);
 }
