@@ -1,20 +1,20 @@
-// //this keyword refers to an object
-// let person = {
-//     this:firstname = 'somu',
-//     lastname:'kandula',
-//     getname: function(){
-//         console.log(firstname);
-//         console.log(this.lastname);
-//     }
-// }
-// person.getname();
-// //somu
-// //kandula
-// let res= person.getname;
-// res(); //it return undefined because it refers to a global object
+//this keyword refers to an object
+let person = {
+    this:firstname = 'somu',
+    lastname:'kandula',
+    getname: function(){
+        console.log(firstname);
+        console.log(this.lastname);
+    }
+}
+person.getname();
+//somu
+//kandula
+let res= person.getname;
+res(); //it return undefined because it refers to a global object
 
-// //it returns window objects
-// console.log(this);
+//it returns window objects
+console.log(this);
 
 //call and apply
 function greet(name) {
@@ -26,5 +26,5 @@ function greet(name) {
 
 //bind 
 let hello = greet.bind(null,["jason",'david']);
-hello();
+hello();//Output: Hello, jason,david!
 
