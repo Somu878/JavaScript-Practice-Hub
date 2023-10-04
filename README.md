@@ -32,14 +32,26 @@ git push origin feature/new-feature
 Go to the original repository and open a pull request with a clear title and description of your changes. Feel free to mention any specific concepts covered in your code.
 
 ##Folder Structure
+
 **/basics:** Basic JavaScript concepts and exercises.
+
 **/advanced:** Advanced JavaScript topics and projects.
-**/algorithms:** JavaScript implementations of algorithms and data structures.
+
+**/algorithms:** JavaScript implementations of algorithms and data structures
+.
 **/frameworks:** Code related to popular JavaScript frameworks and libraries.
+
+
 ##Community Guidelines
+
 Be Respectful: Respect other contributors' work and ideas.
+
 Provide Feedback: Offer constructive feedback to help everyone improve.
+
 No Harmful Content: Do not submit code with malicious intent or harmful content.
+
 Have Fun: Enjoy learning and coding together!
+
 Let's Learn and Grow Together! 💻✨
+
 Feel free to explore the existing code, practice your JavaScript skills, and contribute your own exercises and explanations. Together, we can create a supportive and educational environment for JavaScript enthusiasts worldwide. Happy coding! 🚀
