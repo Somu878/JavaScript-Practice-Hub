@@ -24,7 +24,6 @@ const employees = [
             "salary": 62000
         }
 ];
-
 // Extracting names of employees using map()
 const names = employees.map(employee => employee.name);
 console.log(names);
