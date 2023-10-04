@@ -11,30 +11,29 @@ Welcome to the JavaScript Practice Hub! This repository is a collaborative space
    Clone the forked repository to your local machine.
    ```
    git clone https://github.com/Somu878/JavaScript-Practice-Hub.git
-   
    cd JavaScript-Practice-Hub
    ```
 
 3. **Create a New Branch:**
     Create a new branch for your work.
-```
+    ```
     git checkout -b feature/new-feature
-   ```
-4. **Add Your Code:**
+    ```
+5. **Add Your Code:**
    Add your JavaScript files in the appropriate folders. If it's a new concept, consider creating a new folder with a descriptive name.
 
-5. **Commit Changes:**
+6. **Commit Changes:**
    Commit your changes with a meaningful commit message.
-```
+   ```
    git commit -m "Added: Explanation for closures."
-  ```
-6. **Push Changes:**
+   ```
+7. **Push Changes:**
     Push your changes to your forked repository.
-```
-     git push origin feature/new-feature
-```
+    ```
+    git push origin feature/new-feature
+    ```
 
-7. **Open a Pull Request:**
+8. **Open a Pull Request:**
     Go to the original repository and open a pull request with a clear title and description of your changes. Feel free to mention any specific concepts covered in your code.
 
 ## Folder Structure
