@@ -25,11 +25,15 @@ Commit your changes with a meaningful commit message.
 
 
 git commit -m "Added: Explanation for closures."
+
 6. **Push Changes:**
+
 Push your changes to your forked repository.
 
 git push origin feature/new-feature
+
 7. **Open a Pull Request:**
+
 Go to the original repository and open a pull request with a clear title and description of your changes. Feel free to mention any specific concepts covered in your code.
 
 ## Folder Structure
