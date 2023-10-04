@@ -31,7 +31,7 @@ git push origin feature/new-feature
 7.**Open a Pull Request:**
 Go to the original repository and open a pull request with a clear title and description of your changes. Feel free to mention any specific concepts covered in your code.
 
-##Folder Structure
+##  Folder Structure
 
 **/basics:** Basic JavaScript concepts and exercises.
 
@@ -42,7 +42,7 @@ Go to the original repository and open a pull request with a clear title and des
 **/frameworks:** Code related to popular JavaScript frameworks and libraries.
 
 
-##Community Guidelines
+## Community Guidelines
 
 Be Respectful: Respect other contributors' work and ideas.
 
