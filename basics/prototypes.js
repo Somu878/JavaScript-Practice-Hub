@@ -37,4 +37,4 @@ FeatureFlagsService.prototype.manageFlags = function() {
 };
 
 const switchFeat = new FeatureFlagsService("SwitchFeat", "Self-hosted feature flags service");
-switchFeat.manageFlags(); // Output: Managing feature flags using SwitchFeat: Self-hosted feature flags service.
+switchFeat.manageFlags(); // Output: Managing feature flags using SwitchFeat: Self-hosted feature flags service. 
