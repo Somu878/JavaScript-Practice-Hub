@@ -31,7 +31,7 @@ git push origin feature/new-feature
 7.**Open a Pull Request:**
 Go to the original repository and open a pull request with a clear title and description of your changes. Feel free to mention any specific concepts covered in your code.
 
-##  Folder Structure
+## Folder Structure
 
 **/basics:** Basic JavaScript concepts and exercises.
 
